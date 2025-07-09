@@ -1,4 +1,6 @@
-# 🌿 Simulasi Biomassa dari Limbah Kelapa Sawit
+# 🌿 Simulasi Biomassa dari Limbah Kelapa Sawit.
+---
+![biomassa](https://github.com/ficky28/Biomassa-Limbah-sawit/blob/main/biomassa/biomassa.png)
 ----
 ## 🌳 Halo Sobat ETL! Selamat datang di repositori "Analisis  Biomassa dari Limbah Kelapa Sawit" 🌱
 --
@@ -119,6 +121,8 @@ Plot 2: Limbah vs Pendapatan
 Plot 3: Emisi Dihindari vs Teoritis
 
 Plot 4: Profit Bersih per Kebun
+
+![output](https://github.com/ficky28/Biomassa-Limbah-sawit/blob/main/biomassa/biomassa.png)
 
 ## 💰🌱 4. Evaluasi Ekonomi & Lingkungan
 ### 💵 Ekonomi
