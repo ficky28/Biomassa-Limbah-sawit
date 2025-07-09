@@ -122,7 +122,7 @@ Plot 3: Emisi Dihindari vs Teoritis
 
 Plot 4: Profit Bersih per Kebun
 
-![output](https://github.com/ficky28/Biomassa-Limbah-sawit/blob/main/biomassa/biomassa.png)
+![output](https://github.com/ficky28/Biomassa-Limbah-sawit/blob/main/biomassa/output.png)
 
 ## 💰🌱 4. Evaluasi Ekonomi & Lingkungan
 ### 💵 Ekonomi
